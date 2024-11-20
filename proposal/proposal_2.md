@@ -14,7 +14,7 @@ Research proposal writing is a systematic and structured way of presenting a res
 | No. | Name                                    | ID                 | Proposal Title                | Proposal | AI % |
 |-----|-----------------------------------------|--------------------|-------------------------------|:----------:|----------:|
 | 1   | ABDULLAHI ABDIRIZAK ADAM                | AbdallaAbdirizak   | Developing a Dashboard for Somali University Students' Academic Performance |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
-| 2   | ABUBAKAR SADIQ SADIQ                    |                    |                               |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
+| 2   | ABUBAKAR SADIQ SADIQ                    |       sadiqsadiq404             |     Optimizing Delivery Routes For E-commerce Using Linear programming                         |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 3   | ALEXANDER TAN KA JIN                    | lunari21           | Analysis of AI content within short term video content on social media |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 4   | ANNE DASHINI A/P KANNAN                 | annedashini        | PERSONALIZED DIET RECOMMENDATION SYSTEM |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
 | 5   | GUI YU XUAN                             | wyu04              | Identifying Patterns in Drug Efficacy by Analyzing Drug Reviews through A Clustering Approach |<a href="proposal24251/"><img src="../images/pdf.svg" width="24px" height="24px"></a> ||
